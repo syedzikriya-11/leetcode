@@ -1,2 +1,2 @@
 # leetcode
-Collection of LeetCode problems solved in C.
+Collection of DSA + LeetCode problems solved in C&C++.
